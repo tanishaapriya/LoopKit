@@ -26,14 +26,3 @@ Please understand that this project:
 <a href="/Documentation/Screenshots/Watch%20Notification%20Reservoir.png"><img src="/Documentation/Screenshots/Watch%20Notification%20Reservoir.png?raw=true" alt="Screenshot of bolus failure notification on Apple Watch" width="141"></a>
 <a href="/Documentation/Screenshots/Watch%20Notification%20Bolus%20Failure.png"><img src="/Documentation/Screenshots/Watch%20Notification%20Bolus%20Failure.png?raw=true" alt="Screenshot of bolus failure notification on Apple Watch" width="141"></a>
 
-# Documentation
-
-Please visit the [Loop Docs](https://loopkit.github.io/loopdocs/) for installation, algorithm, and other details.
-
-For FAQs, how to contribute to open source aspects of Loop and other tips, refer to the [Wiki](https://github.com/LoopKit/Loop/wiki)
-
-(Note: there is also a tab for the Wiki at the top of this page)
-
-# License and Code of Conduct
-
-Please read the [LICENSE](/LICENSE.md) and [CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md)
