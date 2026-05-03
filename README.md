@@ -94,8 +94,3 @@ cd Loopkit
 
 ---
 
-## 📌 Note
-
-This project is based on an existing open-source codebase and has been modified and used for learning and development purposes.
-
----
