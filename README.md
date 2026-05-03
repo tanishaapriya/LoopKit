@@ -1,28 +1,101 @@
-# Loop for iOS
+# 🚀 LoopKit (Customized Build)
 
-![App Icon](/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-40%402x.png?raw=true)
+## 📌 Overview
 
-[![Build Status](https://travis-ci.org/LoopKit/Loop.svg?branch=master)](https://travis-ci.org/LoopKit/Loop)
-[![Join the chat at https://loop.zulipchat.com](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://loop.zulipchat.com)
+LoopKit is a structured software project focused on building efficient and scalable applications.
+This version of the project has been customized, enhanced, and maintained by me as part of my hands-on development work.
 
-Loop is an app template for building an automated insulin delivery system. It is a stone resting on the boulders of work done by many others.
+The goal of this project is to understand real-world system design, improve implementation skills, and experiment with enhancements on an existing architecture.
 
-Loop is built on top of [LoopKit](https://github.com/LoopKit/LoopKit). LoopKit is a set of frameworks that provide data storage, retrieval, and calculation, as well as boilerplate view controllers used in Loop.
+---
 
-Please understand that this project:
-- Is highly experimental
-- Is not approved for therapy
+## ✨ Key Highlights
 
-<a href="/Documentation/Screenshots/Phone%20Graphs.png"><img src="/Documentation/Screenshots/Phone%20Graphs.png?raw=true" alt="Screenshot of status screen" width="170"></a>
-<a href="/Documentation/Screenshots/Phone%20Bolus.png"><img src="/Documentation/Screenshots/Phone%20Bolus.png?raw=true" alt="Screenshot of bolus screen" width="170"></a>
-<a href="/Documentation/Screenshots/Phone%20Notification%20Battery.png"><img src="/Documentation/Screenshots/Phone%20Notification%20Battery.png?raw=true" alt="Screenshot of battery change notification" width="170"></a>
-<a href="/Documentation/Screenshots/Phone%20Notification%20Loop%20Failure.png"><img src="/Documentation/Screenshots/Phone%20Notification%20Loop%20Failure.png?raw=true" alt="Screenshot of loop failure notification" width="170"></a>
-<a href="/Documentation/Screenshots/Phone%20Notification%20Bolus%20Failure.png"><img src="/Documentation/Screenshots/Phone%20Notification%20Bolus%20Failure.png?raw=true" alt="Screenshot of bolus failure notification" width="170"></a>
+* Refactored and organized project structure
+* Improved readability and maintainability
+* Explored real-world implementation patterns
+* Hands-on experience with version control and project setup
+* Customized setup and configuration
 
-<a href="/Documentation/Screenshots/Watch%20Complication.png"><img src="/Documentation/Screenshots/Watch%20Complication.png?raw=true" alt="Screenshot of glucose complication on Apple Watch" width="141"></a>
-<a href="/Documentation/Screenshots/Watch%20Carb%20Entry.png"><img src="/Documentation/Screenshots/Watch%20Carb%20Entry.png?raw=true" alt="Screenshot of carb entry on Apple Watch" width="141"></a>
-<a href="/Documentation/Screenshots/Watch%20Bolus.png"><img src="/Documentation/Screenshots/Watch%20Bolus.png?raw=true" alt="Screenshot of bolus entry on Apple Watch" width="141"></a>
-<a href="/Documentation/Screenshots/Watch%20Menu.png"><img src="/Documentation/Screenshots/Watch%20Menu.png?raw=true" alt="Screenshot of the app menu on Apple Watch" width="141"></a>
-<a href="/Documentation/Screenshots/Watch%20Notification%20Reservoir.png"><img src="/Documentation/Screenshots/Watch%20Notification%20Reservoir.png?raw=true" alt="Screenshot of bolus failure notification on Apple Watch" width="141"></a>
-<a href="/Documentation/Screenshots/Watch%20Notification%20Bolus%20Failure.png"><img src="/Documentation/Screenshots/Watch%20Notification%20Bolus%20Failure.png?raw=true" alt="Screenshot of bolus failure notification on Apple Watch" width="141"></a>
+---
 
+## 🛠️ Tech Stack
+
+* Language: *(e.g., Swift / JavaScript / Python — update this)*
+* Tools: Git, GitHub
+* Environment: *(Xcode / VS Code / etc.)*
+
+---
+
+## 📂 Project Structure
+
+```id="n2y5l9"
+LoopKit/
+│── Source/            # Core source files
+│── Resources/         # Assets and configurations
+│── Documentation/     # Supporting docs
+│── Tests/             # Test cases
+│── README.md
+```
+
+---
+
+## ⚙️ Setup & Installation
+
+### Clone the repository
+
+```bash id="b4z6y1"
+git clone https://github.com/tanishaapriya/Loopkit.git
+```
+
+### Navigate to project
+
+```bash id="x3k9pl"
+cd Loopkit
+```
+
+### Run the project
+
+```bash id="a8m2qt"
+# Add actual run command based on your stack
+```
+
+---
+
+## 🚧 Work Done
+
+* Set up the complete project locally
+* Managed version control and repository structure
+* Understood and worked with the existing codebase
+* Made modifications and improvements for better clarity
+
+---
+
+## 📸 Preview
+
+*(Add screenshots if possible — this boosts your profile a LOT)*
+
+---
+
+## 🎯 Learning Outcomes
+
+* Practical exposure to real-world codebases
+* Improved debugging and project setup skills
+* Better understanding of modular architecture
+* Experience working with large repositories
+
+---
+
+## 👩‍💻 Author
+
+**Tanisha Priya**
+
+* GitHub: https://github.com/tanishaapriya
+
+---
+
+## 📌 Note
+
+This project is based on an existing open-source codebase and has been modified and used for learning and development purposes.
+
+---
