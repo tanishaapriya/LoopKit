@@ -1,10 +1,8 @@
 # 🚀 LoopKit (Customized Build)
 
-## 📌 Overview
+## LoopKit is an open-source "Artificial Pancreas" system for iOS. It automates diabetes management by connecting a Continuous Glucose Monitor (CGM) with an Insulin Pump.
 
-LoopKit is a structured software project focused on building efficient and scalable applications.
-This version of the project has been customized, enhanced, and maintained by me as part of my hands-on development work.
-
+Using a smart algorithm, it predicts future blood sugar levels and automatically adjusts insulin delivery in real-time to keep you in your target range—reducing the daily burden of diabetes care.
 The goal of this project is to understand real-world system design, improve implementation skills, and experiment with enhancements on an existing architecture.
 
 ---
