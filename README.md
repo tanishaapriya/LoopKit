@@ -71,10 +71,6 @@ cd Loopkit
 
 ---
 
-## 📸 Preview
-
-*(Add screenshots if possible — this boosts your profile a LOT)*
-
 ---
 
 ## 🎯 Learning Outcomes
